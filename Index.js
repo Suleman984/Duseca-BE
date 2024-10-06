@@ -251,7 +251,7 @@ app.get("/users", authenticateToken, authorizeAdminOrManager, async (req, res) =
     res.status(500).json({ message: "Error fetching users" });
   }
 });
-//manager fetches user and tasks by that user
+
 app.get("/users-and-tasks", authenticateToken, async (req, res) => {
   const authHeader = req.header("Authorization");
   if (!authHeader) {
