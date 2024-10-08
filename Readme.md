@@ -118,3 +118,8 @@ Task Management Routes (taskRoutes.js)
 POST /create-task: Allows a user to create a task.
 GET /tasks: Retrieves all tasks for the logged-in user.
 DELETE /delete-task/:taskId: Deletes a task based on its ID (role-based access).
+
+
+
+
+***********************Data stored in Mongodb compass**************************

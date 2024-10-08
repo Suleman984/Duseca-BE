@@ -1,0 +1,4 @@
+_id,email,password,role,fname,manager,__v,assignedUsers[0]
+6702f228798159b732e49212,admin@gmail.com,$2b$10$zisKstpuT/DMNyV6t9nzYOsWCtTUWJZ3wU4Awb5BKLeQIgOe0Dc1m,Admin,Muhammad Suleman,,0,
+6702f287798159b732e4921f,imran@gmail.com,$2b$10$IGsE7UsrvbkbF.rBa.dRi.Dqtcr6jL.xKm9xmGxyna42foUXXaZEu,manager,imran,,0,6702f29b798159b732e4922b
+6702f29b798159b732e4922b,adnan@gmail.com,$2b$10$YTAP/6c052AOqdy1mvBlWeGR3fX6RHJJPfKyRhpBuLHRHf5w563xO,user,adnan,6702f287798159b732e4921f,0,
